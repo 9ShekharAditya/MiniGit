@@ -1,1 +1,4 @@
-hello world
+hello world!
+hiee
+wsg
+using a single > will erase all the existing data on the file
